@@ -100,4 +100,4 @@
 4. List stacks: `docker stack ls`
 5. List stack services: `docker stack services counter`
 6. Open <http://localhost:5000/>
-6. Cleanup: `docker stack rm counter`
+7. Cleanup: `docker stack rm counter`
